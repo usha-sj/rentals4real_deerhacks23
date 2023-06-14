@@ -12,6 +12,7 @@
 <p align="center">
   <br>
   <a href="#introducing-r4r">Introduction</a> •
+  <a href="#myrole">My Role: UX/UI Design</a> •
   <a href="#inspiration">Inspiration</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
@@ -24,6 +25,12 @@
 ## Introducing R4R
 
 Rentals 4 Real is a platform that automates the housing rental search process.
+
+## My Role: UX/UI Design
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3iS4q3rLpHEudUNikr02sF%2Fdeerhacks---real4real%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DXeVKSujHyHpCbL5Q-1" allowfullscreen></iframe>
+
+My role as part of the team working on the front-end of the project, was to design and build the foundation of the website's structure and layout. I used Figma to create a basic mock-up design to then be coded using HTML, JS and CSS. Furthermore, the README, submission video and logo were all created by me.
 
 ## Inspiration
 
