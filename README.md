@@ -28,7 +28,7 @@ Rentals 4 Real is a platform that automates the housing rental search process.
 
 ## My Role: UX/UI Design
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3iS4q3rLpHEudUNikr02sF%2Fdeerhacks---real4real%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DXeVKSujHyHpCbL5Q-1" allowfullscreen></iframe>
+[Here]([url](https://www.figma.com/file/3iS4q3rLpHEudUNikr02sF/deerhacks---real4real?type=design&node-id=0%3A1&t=XeVKSujHyHpCbL5Q-1)) is the Figma file.
 
 My role as part of the team working on the front-end of the project, was to design and build the foundation of the website's structure and layout. I used Figma to create a basic mock-up design to then be coded using HTML, JS and CSS. Furthermore, the README, submission video and logo were all created by me.
 
