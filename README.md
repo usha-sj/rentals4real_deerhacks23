@@ -31,7 +31,7 @@ Rentals 4 Real is a platform that automates the housing rental search process.
 [Here](https://www.figma.com/file/3iS4q3rLpHEudUNikr02sF/deerhacks---real4real?type=design&node-id=0%3A1&t=XeVKSujHyHpCbL5Q-1) is the Figma file.
 
 
-My role as part of the team working on the front-end of the project, was to design and build the foundation of the website's structure and layout. I used Figma to create a basic mock-up design to then be coded using HTML, JS and CSS. Furthermore, the README, submission video and logo were all created by me.
+My role as part of the team - besides from pitching and developing the idea - working on the front-end of the project, was to design and build the foundation of the website's structure and layout. I used Figma to create a basic mock-up design to then be coded using HTML, JS and CSS. Furthermore, the README, submission video and logo were all created by me.
 
 ## Inspiration
 
